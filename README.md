@@ -1,6 +1,6 @@
 # chino_php_class
 
-An example class of using Chino.io data repository.
+An example class for using Chino.io data repository.
 
 Copyright (c) 2017 Diske Oy
 
