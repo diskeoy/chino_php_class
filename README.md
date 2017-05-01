@@ -1,4 +1,7 @@
 # chino_php_class
+
+An example class of using Chino.io data repository.
+
 Copyright (c) 2017 Diske Oy
 
 Permission is hereby granted, free of charge, to any person obtaining
